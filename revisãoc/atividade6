@@ -1,0 +1,14 @@
+a) neste comando será executado o primeiro laço 10 vezes da seguinte maneira (while: 0, while:1) até chegar em (while: 9),
+ao terminar saímos do loop e vamos para o próximo que fará quase a mesma coisa, só trocando o while por do, porém só será printado uma vez, visto que, o i=9 e sofre um i++.
+
+b) no while, uma condição é imposta, enquanto ela estiver acontecendo será executado algo. Já no do while, você passa algum comando que será executado, enquanto algo acontecer.
+c) 
+int i
+for (i=0; i<10; i++)
+{
+printf ("While: %d", i);
+}
+printf("do: %d", i);
+
+d) O while repete até algo em específico acontecer, já o for cria um laço de repetição que é mais controlado. Acredito que seja melhor usar o for quando sabemos a quantidade de repetições que acontecerão e
+devemos usar o while quando queremos que uma única condição seja cumprida.
