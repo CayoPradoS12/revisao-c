@@ -1,0 +1,2 @@
+a) o vetor é uma ferramenta do c que permite que diversos numeros sejam lidos por um mesmo comando e sejam armazenados em pedaços de memoria.
+b) a string é um dos tipos que podemos atribuir à variável, nela serão armazenados +1 caracteres (ou seja.... palavras!). Dessa forma a String e lida como uma coisa só em C, sendo ignorado os espaços entre palavras.
